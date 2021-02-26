@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    Font-Family: 'Fira Sans', Sans-Serif;
+   Font-Size: 15px;
+   }
+   
+   nav {
+     
+   }
+   
+   h1 {
+     Font-Family: 'Cormorant Garamond', Serif;
+   Font-Size: 85px;
+   color: #ffffff;
+   font-weight: 900px;
+   margin-bottom: -50px;
+   }
+   
+   h3 {
+     Font-Family: 'Cormorant Garamond', Serif;
+   Font-Size: 30px;
+   color: #ffffff;
+   text-align: right;
+   margin-bottom: 100px;
+   
+   }
+   
+   .banner {
+     width: 900px;
+     text-align: center;
+   }
+   
+   a {
+     padding: 0px 20px;
+     background-color: #AFC225;
+     color: black;
+     border: 1px solid black;
+     border-radius: 5px;
+   }
+   
+   a:hover {
+     color: white;
+     background-color: #898F63;
+     border: 1px solid white;
+   }
+   
+   nav {
+     text-align: center;
+   }
+   
+   
+   ul {
+     width: 900px;
+   }
+   
+   li {
+     display: inline-block;
+   
+   }
+   
+   body {
+     background-image: url('fruit-med.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+   }
+   
+   section {
+     width: 900px;
+   }
+   
+   .featured-recipes {
+     display: flex;
+     justify-content: space-evenly;
+   }
+   
+   
+   
+   .recipe-card {
+     background-color: hsla(227, 46%, 96%, .5);
+     border: 1px solid black;
+     padding: 10px;
+     margin: 10px;
+     align-items: center;
+     width: 25%;
+   }
+   
+   .recipe-pic {
+     
+     height: 150px;
+     border: 1px solid #ffffff;
+     align-items: center;
+     
+   }
+   
+   figcaption {
+     text-align: center;
+     font-weight: 900px;
+   }
+   
+   footer {
+   
+   }
+   
